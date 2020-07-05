@@ -3,5 +3,4 @@
 *.prt
 *.vmx
 *.bsp
-/compiled maps/!*.bsp
 bhop vs sprinting/bhopsprint.vmf
