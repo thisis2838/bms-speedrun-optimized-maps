@@ -19,6 +19,7 @@
  As said from before, these maps are imperfect and will need cleanup so that they could more match the originals. At this point in development, this project will need:
  1. Recompiling at Final quality for better lighting.
  2. Checks and fixes for bad I/O connections and info_overlays for maps that needed to be combined with their 2017 counterparts.
+ 3. Playtesting to flush out bugs and give suggestion on what else to cut or what to change.
  
 ## Credits!
  Table, the_kovic and XCape for guide on where and what to cut out. 
