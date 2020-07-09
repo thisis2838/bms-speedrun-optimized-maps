@@ -5,6 +5,8 @@
  
  Get the compiled maps [here](https://drive.google.com/drive/folders/18-N0WWyPNHEfCk-AfjsnewXKahpjBKr_?usp=sharing).
  
+ Please if you find a bug report them in the Issues tab.
+ 
 ## Installation
  1. Download the maps from the link above, then move all the .bsp files into `your Black Mesa root folder > bms > maps`. 
  2. Open up `gameinfo.txt` in the `bms` folder and look for a line that says `game+mod bms/bms_maps.vpk`, add `//` in front of that line.
