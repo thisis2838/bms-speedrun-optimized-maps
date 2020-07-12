@@ -30,3 +30,9 @@ If you are interested in helping feel free to aid in shortening this list!
  Table, the_kovic and XCape for guide on where and what to cut out. 
  
  [The Black Mesa Speedrunning Community](https://discord.gg/pZ8TZ9w) for support and making this possible!
+ 
+ Special thanks to:
+ - MAX_MAP_BRUSHSIDES for making life 70000 times harder.
+ - The Devs for making me do this:
+ 
+ ![Chris Horn, lead dev on the old Questionable Ethics skip, one of the biggest in the run now patched](https://i.imgur.com/GpXWe89.png)
