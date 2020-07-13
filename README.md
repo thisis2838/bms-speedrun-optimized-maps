@@ -22,7 +22,7 @@
  1. Recompiling at Final quality for better lighting.
  2. Build and fix cubemaps.
  3. Checks and fixes for bad I/O connections and info_overlays for maps that needed to be combined with their 2017 counterparts.
- 4. Playtesting to flush out bugs and give suggestion on what else to cut or what to change.
+ 4. Playtesting to flush out bugs and give suggestions on what else to cut or what to change.
  
 If you are interested in helping feel free to aid in shortening this list!
 
@@ -32,7 +32,7 @@ If you are interested in helping feel free to aid in shortening this list!
  [The Black Mesa Speedrunning Community](https://discord.gg/pZ8TZ9w) for support and making this possible!
  
  Special thanks to:
- - MAX_MAP_BRUSHSIDES for making life 70000 times harder.
+ - Imperfect decompiling for making life 70000 times harder.
  - The Devs for making me do this:
  
  ![Chris Horn, lead dev on the old Questionable Ethics skip, one of the biggest in the run now patched](https://i.imgur.com/GpXWe89.png)
