@@ -25,9 +25,9 @@
 If you are interested in helping feel free to aid in shortening this list!
 
 ## Credits!
- Table, the_kovic and XCape for guide on where and what to cut out. 
+ Table, the_kovic and XCape for guide on where and what to cut out.
  
- [The Black Mesa Speedrunning Community](https://discord.gg/pZ8TZ9w) for support and making this possible!
+ [The Black Mesa Speedrunning Community](https://discord.gg/g2QMhVhwhU) for support and making this possible!
  
  Special thanks to:
  - Imperfect decompiling for making life 70000 times harder.
