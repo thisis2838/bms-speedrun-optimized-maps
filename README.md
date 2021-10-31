@@ -19,10 +19,8 @@
  
 ## Todos
  As said from before, these maps are imperfect and will need cleanup so that they could more match the originals. At this point in development, this project will need:
- 1. Recompiling at Final quality for better lighting.
- 2. Build and fix cubemaps.
- 3. Checks and fixes for bad I/O connections and info_overlays for maps that needed to be combined with their 2017 counterparts.
- 4. Playtesting to flush out bugs and give suggestions on what else to cut or what to change.
+ 1. Checks and fixes for bad I/O connections and info_overlays for maps that needed to be combined with their 2017 counterparts.
+ 2. Playtesting to flush out bugs and give suggestions on what else to cut or what to change.
  
 If you are interested in helping feel free to aid in shortening this list!
 
